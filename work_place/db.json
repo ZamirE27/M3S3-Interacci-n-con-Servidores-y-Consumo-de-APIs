@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "iphone",
+      "price": 5999,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "keyboard",
+      "price": 1000
+    },
+    {
+      "id": "3",
+      "name": "mouse",
+      "price": 500
+    }
+  ]
+}
