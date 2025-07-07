@@ -1,19 +1,14 @@
 {
   "products": [
     {
-      "name": "iphone",
-      "price": 5999,
-      "id": "1"
+      "name": "raton",
+      "price": 2313123,
+      "id": "f288"
     },
     {
-      "id": "2",
-      "name": "keyboard",
-      "price": 1000
-    },
-    {
-      "id": "3",
-      "name": "mouse",
-      "price": 500
+      "id": "42e2",
+      "name": "lorororo",
+      "price": "2000"
     }
   ]
 }

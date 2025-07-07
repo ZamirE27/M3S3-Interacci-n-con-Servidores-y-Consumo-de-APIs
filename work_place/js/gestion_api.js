@@ -49,7 +49,7 @@ const message_dos = document.getElementById("message");
 form_dos.addEventListener("submit", async (e) => {
     e.preventDefault();
 
-    const nameToUpdate = document.getElementById("productName").value.trim().toLowerCase();
+    const nameToUpdate = document.getElementById("productNameUp").value.trim().toLowerCase();
     const newName = document.getElementById("newName").value.trim();
     const newPriceRaw = document.getElementById("newPrice").value.trim();
 
